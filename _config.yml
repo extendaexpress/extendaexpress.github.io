@@ -1,0 +1,18 @@
+# Site settings
+title: Extenda Express 
+email: express@extenda.se
+url: https://www.extendaexpress.se
+description: "Extenda Express tillhandahåller moderna Point-Of-Sale lösningar baserade på Microsoft Dynamics samt kundunika anpassningar."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Extenda Express
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
